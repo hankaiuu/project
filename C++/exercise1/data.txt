@@ -1,0 +1,4 @@
+K.Weng  T.Dixon V.Chu L.Tson L.Lee I.Young K.Hiro G.Ping H.Gu J.Jon
+5 4 3 4 3 4 4 4 2 5
+5 3 4 3 4 2 2 4 3 4
+5 2 5 4 3 5 1 4 4 3
